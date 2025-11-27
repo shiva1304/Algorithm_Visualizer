@@ -1,0 +1,1 @@
+A Python-based Algorithm Visualizer that shows how sorting algorithms work through dynamic bar animations. It displays each comparison and swap in real time, helping users clearly understand the internal steps of Bubble, Selection, Insertion, and other sorting techniques or searching Techniques.
